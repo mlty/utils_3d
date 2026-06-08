@@ -1,0 +1,667 @@
+[
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象16333/手办_Q版形象16333.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_4009_1_1/手办_Q版形象16333_33651adc1a8d",
+    "prefix": "手办_Q版形象16333_33651adc1a8d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3242/动物_野生动物3242.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3242_b1e8e46ae4e0",
+    "prefix": "动物_野生动物3242_b1e8e46ae4e0",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18645/动物_野生动物18645.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18645_f5a0a81e8420",
+    "prefix": "动物_野生动物18645_f5a0a81e8420",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18775/动物_野生动物18775.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18775_f7ecd62124f9",
+    "prefix": "动物_野生动物18775_f7ecd62124f9",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_农场动物/动物_农场动物677/动物_农场动物677.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_农场动物677_b7c7c9f628eb",
+    "prefix": "动物_农场动物677_b7c7c9f628eb",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3435/动物_野生动物3435.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3435_ea0be43b0412",
+    "prefix": "动物_野生动物3435_ea0be43b0412",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3351/动物_野生动物3351.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3351_904f93a7b18b",
+    "prefix": "动物_野生动物3351_904f93a7b18b",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/游戏角色_包含PBR和骨骼_写实风_1100(1)(1)/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色4117/游戏角色_奇幻类人角色4117(1).glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/游戏角色_包含PBR和骨骼_写实风_1100_1_1/游戏角色_奇幻类人角色4117_1_69f839d4e68d",
+    "prefix": "游戏角色_奇幻类人角色4117_1_69f839d4e68d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/游戏角色_包含PBR和骨骼_写实风_1100(1)(1)/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色4117/游戏角色_奇幻类人角色4117.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/游戏角色_包含PBR和骨骼_写实风_1100_1_1/游戏角色_奇幻类人角色4117_f2b013929221",
+    "prefix": "游戏角色_奇幻类人角色4117_f2b013929221",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3658/动物_野生动物3658.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3658_090b2bf75aff",
+    "prefix": "动物_野生动物3658_090b2bf75aff",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3560/动物_野生动物3560.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3560_fd19aaf4ff70",
+    "prefix": "动物_野生动物3560_fd19aaf4ff70",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18567/动物_野生动物18567.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18567_bd6f36ea8b4e",
+    "prefix": "动物_野生动物18567_bd6f36ea8b4e",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3537/动物_野生动物3537.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3537_74c9f3c4418c",
+    "prefix": "动物_野生动物3537_74c9f3c4418c",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3472/动物_野生动物3472.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3472_6c6d81c5858d",
+    "prefix": "动物_野生动物3472_6c6d81c5858d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3662/动物_野生动物3662.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3662_24d707ed0882",
+    "prefix": "动物_野生动物3662_24d707ed0882",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象15045/手办_Q版形象15045.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_4009_1_1/手办_Q版形象15045_a50d2f0c0fa1",
+    "prefix": "手办_Q版形象15045_a50d2f0c0fa1",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3303/动物_野生动物3303.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3303_5899adeaa1ff",
+    "prefix": "动物_野生动物3303_5899adeaa1ff",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3674/动物_野生动物3674.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3674_11bf6b5c623e",
+    "prefix": "动物_野生动物3674_11bf6b5c623e",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3732/动物_野生动物3732.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3732_acdbcec453b9",
+    "prefix": "动物_野生动物3732_acdbcec453b9",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3724/动物_野生动物3724.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3724_73b302f73700",
+    "prefix": "动物_野生动物3724_73b302f73700",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3350/动物_野生动物3350.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3350_504902664dc5",
+    "prefix": "动物_野生动物3350_504902664dc5",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3831/动物_野生动物3831.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3831_17378eb0df5e",
+    "prefix": "动物_野生动物3831_17378eb0df5e",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象15684/手办_Q版形象15684.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_4009_1_1/手办_Q版形象15684_38ecc7671185",
+    "prefix": "手办_Q版形象15684_38ecc7671185",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19515/手办_Q版形象19515.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19515_f99b87f0f06a",
+    "prefix": "手办_Q版形象19515_f99b87f0f06a",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18398/手办_Q版形象18398.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象18398_5f0f3ba225ec",
+    "prefix": "手办_Q版形象18398_5f0f3ba225ec",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17413/手办_Q版形象17413.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象17413_5e1da0de320d",
+    "prefix": "手办_Q版形象17413_5e1da0de320d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象15917/手办_Q版形象15917.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_4009_1_1/手办_Q版形象15917_e4668bedb20a",
+    "prefix": "手办_Q版形象15917_e4668bedb20a",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/游戏角色_不包含PBR和骨骼_写实风_6988(1)/游戏角色_不包含PBR和骨骼_写实风_6988/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色14141/游戏角色_奇幻类人角色14141.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/游戏角色_不包含PBR和骨骼_写实风_6988_1/游戏角色_奇幻类人角色14141_e26ca950e354",
+    "prefix": "游戏角色_奇幻类人角色14141_e26ca950e354",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/游戏角色_不包含PBR和骨骼_写实风_6988(1)/游戏角色_不包含PBR和骨骼_写实风_6988/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色14712/游戏角色_奇幻类人角色14712.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/游戏角色_不包含PBR和骨骼_写实风_6988_1/游戏角色_奇幻类人角色14712_dc1f4c2363fa",
+    "prefix": "游戏角色_奇幻类人角色14712_dc1f4c2363fa",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/游戏角色_不包含PBR和骨骼_写实风_4084(2)(1)/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色19709/游戏角色_奇幻类人角色19709.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/游戏角色_不包含PBR和骨骼_写实风_4084_2_1/游戏角色_奇幻类人角色19709_0ef6fca59ceb",
+    "prefix": "游戏角色_奇幻类人角色19709_0ef6fca59ceb",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18816/动物_野生动物18816.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18816_aa99e7d33f14",
+    "prefix": "动物_野生动物18816_aa99e7d33f14",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19536/手办_Q版形象19536.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19536_3ccf5141bd32",
+    "prefix": "手办_Q版形象19536_3ccf5141bd32",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象14425/手办_Q版形象14425.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_4009_1_1/手办_Q版形象14425_6e7cf016d74a",
+    "prefix": "手办_Q版形象14425_6e7cf016d74a",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4383/动物_野生动物4383.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4383_ad4806a5d6d6",
+    "prefix": "动物_野生动物4383_ad4806a5d6d6",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12135/真人_成人12135.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12135_48bd2fc8baca",
+    "prefix": "真人_成人12135_48bd2fc8baca",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4098/动物_野生动物4098.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4098_1d8bfe0a88b5",
+    "prefix": "动物_野生动物4098_1d8bfe0a88b5",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12752/真人_成人12752.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12752_b6de381334f9",
+    "prefix": "真人_成人12752_b6de381334f9",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4176/动物_野生动物4176.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4176_07f3ffc1104d",
+    "prefix": "动物_野生动物4176_07f3ffc1104d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4146/动物_野生动物4146.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4146_e76a8de566cb",
+    "prefix": "动物_野生动物4146_e76a8de566cb",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12741/真人_成人12741.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12741_98956c92adbc",
+    "prefix": "真人_成人12741_98956c92adbc",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17737/动物_野生动物17737.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物17737_a070c7dbd033",
+    "prefix": "动物_野生动物17737_a070c7dbd033",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4244/动物_野生动物4244.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4244_675fdbea1d87",
+    "prefix": "动物_野生动物4244_675fdbea1d87",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19228/手办_Q版形象19228.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19228_c6599361cafb",
+    "prefix": "手办_Q版形象19228_c6599361cafb",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4109/动物_野生动物4109.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4109_753251f537f3",
+    "prefix": "动物_野生动物4109_753251f537f3",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4238/动物_野生动物4238.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4238_20d13335c155",
+    "prefix": "动物_野生动物4238_20d13335c155",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4236/动物_野生动物4236.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4236_86773e8ea529",
+    "prefix": "动物_野生动物4236_86773e8ea529",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3881/动物_野生动物3881.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3881_a57d9e0e363e",
+    "prefix": "动物_野生动物3881_a57d9e0e363e",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3913/动物_野生动物3913.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3913_55fbd80233bc",
+    "prefix": "动物_野生动物3913_55fbd80233bc",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3916/动物_野生动物3916.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3916_5dc815bc7a12",
+    "prefix": "动物_野生动物3916_5dc815bc7a12",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4124/动物_野生动物4124.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4124_22d2b3256e5b",
+    "prefix": "动物_野生动物4124_22d2b3256e5b",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4126/动物_野生动物4126.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4126_2e53fd2eb493",
+    "prefix": "动物_野生动物4126_2e53fd2eb493",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3911/动物_野生动物3911.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3911_65aaec013af1",
+    "prefix": "动物_野生动物3911_65aaec013af1",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12740/真人_成人12740.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12740_8e2203f98738",
+    "prefix": "真人_成人12740_8e2203f98738",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4397/动物_野生动物4397.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4397_69b815e2477c",
+    "prefix": "动物_野生动物4397_69b815e2477c",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4105/动物_野生动物4105.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4105_8291807ad36b",
+    "prefix": "动物_野生动物4105_8291807ad36b",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4313/动物_野生动物4313.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4313_7ac7036e1cb4",
+    "prefix": "动物_野生动物4313_7ac7036e1cb4",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12786/真人_成人12786.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12786_e0a028cd201d",
+    "prefix": "真人_成人12786_e0a028cd201d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12664/真人_成人12664.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12664_f70dd85c384e",
+    "prefix": "真人_成人12664_f70dd85c384e",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17742/动物_野生动物17742.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物17742_55307ec078bf",
+    "prefix": "动物_野生动物17742_55307ec078bf",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12784/真人_成人12784.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12784_52f388c5aa91",
+    "prefix": "真人_成人12784_52f388c5aa91",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12783/真人_成人12783.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12783_fa5b37b60bf8",
+    "prefix": "真人_成人12783_fa5b37b60bf8",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4388/动物_野生动物4388.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4388_5001a5e45b1e",
+    "prefix": "动物_野生动物4388_5001a5e45b1e",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12782/真人_成人12782.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12782_40ae072567e3",
+    "prefix": "真人_成人12782_40ae072567e3",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18464/动物_野生动物18464.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18464_79ca39b6bfb7",
+    "prefix": "动物_野生动物18464_79ca39b6bfb7",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3273/动物_野生动物3273.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3273_c87f98e86d9c",
+    "prefix": "动物_野生动物3273_c87f98e86d9c",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18130/动物_野生动物18130.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18130_1d47d34f8208",
+    "prefix": "动物_野生动物18130_1d47d34f8208",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11652/机甲_机器人11652.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/机甲_不包含PBR和骨骼_写实风_536_1/机甲_机器人11652_655e03b51cd3",
+    "prefix": "机甲_机器人11652_655e03b51cd3",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17888/动物_野生动物17888.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物17888_e9c626e82d8a",
+    "prefix": "动物_野生动物17888_e9c626e82d8a",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象13668/手办_Q版形象13668.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_4009_1_1/手办_Q版形象13668_417a4aa3e0ea",
+    "prefix": "手办_Q版形象13668_417a4aa3e0ea",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4039/动物_野生动物4039.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物4039_2b049b68cfa8",
+    "prefix": "动物_野生动物4039_2b049b68cfa8",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11987/机甲_机器人11987.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/机甲_不包含PBR和骨骼_写实风_536_1/机甲_机器人11987_a40acac81d66",
+    "prefix": "机甲_机器人11987_a40acac81d66",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3252/动物_野生动物3252.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3252_7256d1c32530",
+    "prefix": "动物_野生动物3252_7256d1c32530",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3563/动物_野生动物3563.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3563_e45c5b216d70",
+    "prefix": "动物_野生动物3563_e45c5b216d70",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17995/动物_野生动物17995.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物17995_e0f16e1acdda",
+    "prefix": "动物_野生动物17995_e0f16e1acdda",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18685/动物_野生动物18685.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18685_418b6a2a3925",
+    "prefix": "动物_野生动物18685_418b6a2a3925",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18656/动物_野生动物18656.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18656_6d3aca55b108",
+    "prefix": "动物_野生动物18656_6d3aca55b108",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3855/动物_野生动物3855.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3855_24486c6b489b",
+    "prefix": "动物_野生动物3855_24486c6b489b",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17395/手办_Q版形象17395.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象17395_b04388b6035b",
+    "prefix": "手办_Q版形象17395_b04388b6035b",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17406/手办_Q版形象17406.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象17406_f869a88b3696",
+    "prefix": "手办_Q版形象17406_f869a88b3696",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19157/手办_Q版形象19157.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19157_844509fbb647",
+    "prefix": "手办_Q版形象19157_844509fbb647",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17252/手办_Q版形象17252.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象17252_353dc765ed06",
+    "prefix": "手办_Q版形象17252_353dc765ed06",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18848/手办_Q版形象18848.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象18848_7f32d3591c1c",
+    "prefix": "手办_Q版形象18848_7f32d3591c1c",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18894/手办_Q版形象18894.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象18894_36ba12182519",
+    "prefix": "手办_Q版形象18894_36ba12182519",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17867/动物_野生动物17867.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物17867_e8cee84099fd",
+    "prefix": "动物_野生动物17867_e8cee84099fd",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17472/手办_Q版形象17472.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象17472_b10c63d864fe",
+    "prefix": "手办_Q版形象17472_b10c63d864fe",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17208/手办_Q版形象17208.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象17208_95244010ee2d",
+    "prefix": "手办_Q版形象17208_95244010ee2d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3520/动物_野生动物3520.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_包含PBR和骨骼_写实风_1454_1/动物_野生动物3520_3c83e0b00441",
+    "prefix": "动物_野生动物3520_3c83e0b00441",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18833/手办_Q版形象18833.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象18833_340b1a49daae",
+    "prefix": "手办_Q版形象18833_340b1a49daae",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19847/手办_Q版形象19847.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19847_27604e60ae05",
+    "prefix": "手办_Q版形象19847_27604e60ae05",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19858/手办_Q版形象19858.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19858_c468af3bce4d",
+    "prefix": "手办_Q版形象19858_c468af3bce4d",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18428/动物_野生动物18428.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18428_2471abf599aa",
+    "prefix": "动物_野生动物18428_2471abf599aa",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18554/动物_野生动物18554.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18554_90e44d34b65a",
+    "prefix": "动物_野生动物18554_90e44d34b65a",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19525/手办_Q版形象19525.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/手办_不包含PBR和骨骼_写实风_2997_1/手办_Q版形象19525_60666c698903",
+    "prefix": "手办_Q版形象19525_60666c698903",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12705/真人_成人12705.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/真人_不包含PBR和骨骼_写实风_715_1/真人_成人12705_59d2f80dc693",
+    "prefix": "真人_成人12705_59d2f80dc693",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  },
+  {
+    "path": "/Users/mlty/Data/jiaguyi10/动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18543/动物_野生动物18543.glb",
+    "render_dir": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/normal_audit/normal_renders/动物_不包含PBR和骨骼_写实风_1730_1_1/动物_野生动物18543_eecb56cf261a",
+    "prefix": "动物_野生动物18543_eecb56cf261a",
+    "size": 384,
+    "engine": "BLENDER_EEVEE_NEXT"
+  }
+]

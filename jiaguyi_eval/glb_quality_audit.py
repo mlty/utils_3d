@@ -424,6 +424,7 @@ class AuditConfig:
     max_examples: int
     extract_textures: bool
     texture_overwrite: bool
+    texture_dir_name: str
     render_six_views: bool
     render_overwrite: bool
     blender_path: Optional[str]
@@ -1173,7 +1174,7 @@ def analyze_textures(
         "texture_extract_errors": [],
     }
 
-    extract_dir = Path(model_path).parent / "imgs"
+    extract_dir = Path(model_path).parent / config.texture_dir_name
     if config.extract_textures:
         stats["texture_extract_dir"] = str(extract_dir)
 
@@ -2297,6 +2298,7 @@ def build_summary(
             "pil_available": PIL_AVAILABLE,
             "extract_textures": config.extract_textures,
             "texture_overwrite": config.texture_overwrite,
+            "texture_dir_name": config.texture_dir_name,
             "render_six_views": config.render_six_views,
             "render_size": config.render_size,
             "render_engine": config.render_engine,
@@ -2428,7 +2430,7 @@ def render_summary_md(summary: Dict[str, Any]) -> str:
                 "",
                 f"- 抽取贴图总数: {texture_extract_summary.get('extracted_texture_count', 0)}",
                 f"- 状态分布: {texture_extract_summary.get('status_counts', {})}",
-                "- 图片位置: 每个 GLB 当前目录下的 `imgs/`",
+                f"- 图片位置: 每个 GLB 当前目录下的 `{summary.get('rules', {}).get('texture_dir_name', 'imgs')}/`",
                 "",
             ]
         )
@@ -2715,8 +2717,9 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> AuditConfig:
     )
     parser.add_argument("--sample-limit", type=int, help="Only audit the first N discovered assets.")
     parser.add_argument("--max-examples", type=int, default=30, help="Examples kept in summary files.")
-    parser.add_argument("--extract-textures", action="store_true", help="Extract embedded/copy external GLB textures into each asset folder's imgs/ directory.")
-    parser.add_argument("--texture-overwrite", action="store_true", help="Overwrite existing files under imgs/ when extracting textures.")
+    parser.add_argument("--extract-textures", action="store_true", help="Extract embedded/copy external GLB textures into each asset folder's texture directory.")
+    parser.add_argument("--texture-overwrite", action="store_true", help="Overwrite existing files under the texture directory when extracting textures.")
+    parser.add_argument("--texture-dir-name", default="imgs", help="Directory name under each asset folder for extracted textures. Default: imgs")
     parser.add_argument("--render-six-views", action="store_true", help="Render front/back/left/right/top/bottom PNGs into each asset folder's renders/ directory.")
     parser.add_argument("--render-overwrite", action="store_true", help="Overwrite existing six-view render images.")
     parser.add_argument("--blender-path", default=os.environ.get("BLENDER_PATH"), help="Blender executable path. Defaults to BLENDER_PATH, blender in PATH, or macOS app path.")
@@ -2758,6 +2761,9 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> AuditConfig:
         parser.error("--llm-max-assets must be >= 0")
     if args.llm_workers <= 0:
         parser.error("--llm-workers must be positive")
+    texture_dir_name = args.texture_dir_name.strip()
+    if not texture_dir_name or Path(texture_dir_name).is_absolute() or any(part in {"", ".", ".."} for part in Path(texture_dir_name).parts):
+        parser.error("--texture-dir-name must be a relative directory name")
 
     return AuditConfig(
         root=str(Path(args.root).expanduser().resolve()) if args.root else None,
@@ -2783,6 +2789,7 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> AuditConfig:
         max_examples=args.max_examples,
         extract_textures=args.extract_textures,
         texture_overwrite=args.texture_overwrite,
+        texture_dir_name=texture_dir_name,
         render_six_views=args.render_six_views,
         render_overwrite=args.render_overwrite,
         blender_path=args.blender_path,

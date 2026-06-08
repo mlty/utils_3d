@@ -59,8 +59,8 @@ api.login(YOUR_ACCESS_TOKEN)
 
 # 2️⃣ 配置模型仓库信息
 owner_name = 'zhymlty'
-model_name = 'graver'   # 模型仓库名（注意不是 dataset）
-local_folder = '/mnt/vast/hongyuan/graver_open_ckpt/'
+model_name = 'graver_1.1'   # 模型仓库名（注意不是 dataset）
+local_folder = '/Users/mlty/Data/graver1_1'
 commit_message = 'upload model files'
 
 # 3️⃣ 直接上传整个文件夹

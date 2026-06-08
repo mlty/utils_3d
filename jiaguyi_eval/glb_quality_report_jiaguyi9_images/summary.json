@@ -1,0 +1,1022 @@
+{
+  "ai_summary": {
+    "candidate_count": 38,
+    "examples": [
+      {
+        "ai_evidence": [
+          "静态关键词命中 `ai`: meshy_ai_pink_polka_dot_bow_0301191820_texture",
+          "静态关键词命中 `meshy`: meshy_ai_pink_polka_dot_bow_0301191820_texture"
+        ],
+        "ai_risk": "high",
+        "ai_score": 100,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色14267/动漫角色_动漫角色14267.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色14267/动漫角色_动漫角色14267.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `ai`: meshy_ai_pink_and_white_stripe_0214023054_texture",
+          "静态关键词命中 `meshy`: meshy_ai_pink_and_white_stripe_0214023054_texture"
+        ],
+        "ai_risk": "high",
+        "ai_score": 100,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色14733/动漫角色_动漫角色14733.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色14733/动漫角色_动漫角色14733.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `ai`: meshy_ai_lace_up_leather_short_0207043108_texture",
+          "静态关键词命中 `meshy`: meshy_ai_lace_up_leather_short_0207043108_texture"
+        ],
+        "ai_risk": "high",
+        "ai_score": 100,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15422/动漫角色_动漫角色15422.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15422/动漫角色_动漫角色15422.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_6f1ec6de_tripo_mat_6f1ec6de_0.012"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色14400/动漫角色_动漫角色14400.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色14400/动漫角色_动漫角色14400.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_c3d9b431"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15093/动漫角色_动漫角色15093.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15093/动漫角色_动漫角色15093.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_661bda5a"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15910/动漫角色_动漫角色15910.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15910/动漫角色_动漫角色15910.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_mat_830d0495-88ec-476d-a224-b94c681bab95"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_怪物外星人/动漫角色_怪物外星人4971/动漫角色_怪物外星人4971.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_怪物外星人/动漫角色_怪物外星人4971/动漫角色_怪物外星人4971.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_mat_db56baed-0996-489a-94df-811c05e20203"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_怪物外星人/动漫角色_怪物外星人5051/动漫角色_怪物外星人5051.glb",
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_怪物外星人/动漫角色_怪物外星人5051/动漫角色_怪物外星人5051.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_c694cd86-acc2-412c-9e89-e5794b4acfd6.001"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1246/动物_家养宠物1246.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1246/动物_家养宠物1246.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_d3d7ae4a-9b4f-487b-a892-8a820bb03511_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15588/动物_野生动物15588.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15588/动物_野生动物15588.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_d3d7ae4a-9b4f-487b-a892-8a820bb03511_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15589/动物_野生动物15589.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15589/动物_野生动物15589.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_db5c5375-01e7-4328-b9c6-37b455574210_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15590/动物_野生动物15590.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15590/动物_野生动物15590.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_98ee5e6f-e2e1-4407-9fad-9dce8a402afa_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15591/动物_野生动物15591.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15591/动物_野生动物15591.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_28a19551-e588-4418-886d-5cb701e6937b_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15593/动物_野生动物15593.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15593/动物_野生动物15593.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_0ba3ec56-70b4-44f5-9a11-00415b55c533_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15594/动物_野生动物15594.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15594/动物_野生动物15594.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_eec11aba-9107-4665-a8e4-7ceecbe62095_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15595/动物_野生动物15595.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15595/动物_野生动物15595.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_db5c5375-01e7-4328-b9c6-37b455574210_0_1"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15596/动物_野生动物15596.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15596/动物_野生动物15596.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_4083e2f5-60ba-460d-ab76-1c3fde4f9349_0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15597/动物_野生动物15597.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15597/动物_野生动物15597.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_b8a53dc6-2d44-4ef9-9160-10aa881549f9"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15668/动物_野生动物15668.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15668/动物_野生动物15668.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_97ecb418-27cf-48e4-abd6-90191e04a07b"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15691/动物_野生动物15691.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15691/动物_野生动物15691.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_f93b3281-b042-43f8-bfbd-07ba2aff1272.006"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15708/动物_野生动物15708.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15708/动物_野生动物15708.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_e741bcfa-904e-4a27-bd59-58a0e4f1bb43"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15709/动物_野生动物15709.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15709/动物_野生动物15709.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_6a72300b-c50d-4063-a3d3-2868151566da.001"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16058/动物_野生动物16058.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16058/动物_野生动物16058.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_8173d024-c4f6-421b-a5d9-a9ad566ad036.009"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16059/动物_野生动物16059.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16059/动物_野生动物16059.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_material_1761196d-2af9-4d67-91cd-57340e1bf6af.005"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16061/动物_野生动物16061.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16061/动物_野生动物16061.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_mat_75a1a828-e2af-45cc-832d-9c4da193c076"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物17324/动物_野生动物17324.glb",
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物17324/动物_野生动物17324.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_e48fbc47-8701-42d9-92fc-bf8e5c8640d0"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/手办_不包含PBR和骨骼_写实风_5405/手办_Q版形象/手办_Q版形象11581/手办_Q版形象11581.glb",
+        "relative_path": "手办_不包含PBR和骨骼_写实风_5405/手办_Q版形象/手办_Q版形象11581/手办_Q版形象11581.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: retopo_tripo_node_c013d3b3-ca4f-46f2-a694-931ed784ed0e.004"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/手办_不包含PBR和骨骼_写实风_5405/手办_玩偶/手办_玩偶3992/手办_玩偶3992.glb",
+        "relative_path": "手办_不包含PBR和骨骼_写实风_5405/手办_玩偶/手办_玩偶3992/手办_玩偶3992.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: retopo_tripo_node_c013d3b3-ca4f-46f2-a694-931ed784ed0e.004"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/手办_不包含PBR和骨骼_写实风_5405/手办_玩偶/手办_玩偶3994/手办_玩偶3994.glb",
+        "relative_path": "手办_不包含PBR和骨骼_写实风_5405/手办_玩偶/手办_玩偶3994/手办_玩偶3994.glb"
+      },
+      {
+        "ai_evidence": [
+          "静态关键词命中 `tripo`: tripo_node_3c80984e_tripo_mat_3c80984e_0.005"
+        ],
+        "ai_risk": "high",
+        "ai_score": 75,
+        "llm_is_ai_asset": null,
+        "path": "/Users/mlty/Data/jiaguyi9/游戏角色_不包含PBR和骨骼_写实风_5093/游戏角色_风格化类人角色/游戏角色_风格化类人角色18805/游戏角色_风格化类人角色18805.glb",
+        "relative_path": "游戏角色_不包含PBR和骨骼_写实风_5093/游戏角色_风格化类人角色/游戏角色_风格化类人角色18805/游戏角色_风格化类人角色18805.glb"
+      }
+    ],
+    "llm_ai_uncertain_count": 0,
+    "llm_ai_yes_count": 0,
+    "risk_counts": {
+      "high": 37,
+      "low": 1,
+      "no_evidence": 12965
+    },
+    "static_keyword_count": 38
+  },
+  "dataset_reasons": [
+    "has_rejected_assets"
+  ],
+  "dataset_status": "rejected",
+  "discovered_count": 13003,
+  "elapsed_sec": 76.44,
+  "examples": {
+    "rejected": [
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15337/动漫角色_动漫角色15337.glb",
+        "reject_reasons": [
+          "gore_keyword_suspect"
+        ],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15337/动漫角色_动漫角色15337.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15899/动漫角色_动漫角色15899.glb",
+        "reject_reasons": [
+          "gore_keyword_suspect"
+        ],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色15899/动漫角色_动漫角色15899.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_怪物外星人/动漫角色_怪物外星人5049/动漫角色_怪物外星人5049.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_怪物外星人/动漫角色_怪物外星人5049/动漫角色_怪物外星人5049.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_类人角色/动漫角色_类人角色3549/动漫角色_类人角色3549.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_类人角色/动漫角色_类人角色3549/动漫角色_类人角色3549.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_类人角色/动漫角色_类人角色3555/动漫角色_类人角色3555.glb",
+        "reject_reasons": [
+          "gore_keyword_suspect"
+        ],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_类人角色/动漫角色_类人角色3555/动漫角色_类人角色3555.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1225/动物_家养宠物1225.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1225/动物_家养宠物1225.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1246/动物_家养宠物1246.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1246/动物_家养宠物1246.glb",
+        "review_reasons": [
+          "ai_asset_suspect",
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1247/动物_家养宠物1247.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1247/动物_家养宠物1247.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1249/动物_家养宠物1249.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_家养宠物/动物_家养宠物1249/动物_家养宠物1249.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15454/动物_野生动物15454.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15454/动物_野生动物15454.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15474/动物_野生动物15474.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15474/动物_野生动物15474.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15566/动物_野生动物15566.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15566/动物_野生动物15566.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15689/动物_野生动物15689.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15689/动物_野生动物15689.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15697/动物_野生动物15697.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15697/动物_野生动物15697.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15729/动物_野生动物15729.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15729/动物_野生动物15729.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15734/动物_野生动物15734.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15734/动物_野生动物15734.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15735/动物_野生动物15735.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15735/动物_野生动物15735.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15746/动物_野生动物15746.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15746/动物_野生动物15746.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15754/动物_野生动物15754.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15754/动物_野生动物15754.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15755/动物_野生动物15755.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15755/动物_野生动物15755.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15756/动物_野生动物15756.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15756/动物_野生动物15756.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15760/动物_野生动物15760.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15760/动物_野生动物15760.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15770/动物_野生动物15770.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15770/动物_野生动物15770.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15771/动物_野生动物15771.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15771/动物_野生动物15771.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15938/动物_野生动物15938.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15938/动物_野生动物15938.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15973/动物_野生动物15973.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物15973/动物_野生动物15973.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16010/动物_野生动物16010.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16010/动物_野生动物16010.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16042/动物_野生动物16042.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16042/动物_野生动物16042.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16083/动物_野生动物16083.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16083/动物_野生动物16083.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16084/动物_野生动物16084.glb",
+        "reject_reasons": [
+          "too_many_faces"
+        ],
+        "relative_path": "动物_不包含PBR和骨骼_写实风_2114/动物_野生动物/动物_野生动物16084/动物_野生动物16084.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      }
+    ],
+    "review": [
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13954/动漫角色_动漫角色13954.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13954/动漫角色_动漫角色13954.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13956/动漫角色_动漫角色13956.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13956/动漫角色_动漫角色13956.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13958/动漫角色_动漫角色13958.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13958/动漫角色_动漫角色13958.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13959/动漫角色_动漫角色13959.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13959/动漫角色_动漫角色13959.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13960/动漫角色_动漫角色13960.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13960/动漫角色_动漫角色13960.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13962/动漫角色_动漫角色13962.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13962/动漫角色_动漫角色13962.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13963/动漫角色_动漫角色13963.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13963/动漫角色_动漫角色13963.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13964/动漫角色_动漫角色13964.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13964/动漫角色_动漫角色13964.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13965/动漫角色_动漫角色13965.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13965/动漫角色_动漫角色13965.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13966/动漫角色_动漫角色13966.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13966/动漫角色_动漫角色13966.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13967/动漫角色_动漫角色13967.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13967/动漫角色_动漫角色13967.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13968/动漫角色_动漫角色13968.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13968/动漫角色_动漫角色13968.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13969/动漫角色_动漫角色13969.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13969/动漫角色_动漫角色13969.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13970/动漫角色_动漫角色13970.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13970/动漫角色_动漫角色13970.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13971/动漫角色_动漫角色13971.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13971/动漫角色_动漫角色13971.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13972/动漫角色_动漫角色13972.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13972/动漫角色_动漫角色13972.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13973/动漫角色_动漫角色13973.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13973/动漫角色_动漫角色13973.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13974/动漫角色_动漫角色13974.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13974/动漫角色_动漫角色13974.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13975/动漫角色_动漫角色13975.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13975/动漫角色_动漫角色13975.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13976/动漫角色_动漫角色13976.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13976/动漫角色_动漫角色13976.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13977/动漫角色_动漫角色13977.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13977/动漫角色_动漫角色13977.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13978/动漫角色_动漫角色13978.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13978/动漫角色_动漫角色13978.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13980/动漫角色_动漫角色13980.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13980/动漫角色_动漫角色13980.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13981/动漫角色_动漫角色13981.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13981/动漫角色_动漫角色13981.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13982/动漫角色_动漫角色13982.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13982/动漫角色_动漫角色13982.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13983/动漫角色_动漫角色13983.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13983/动漫角色_动漫角色13983.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13984/动漫角色_动漫角色13984.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13984/动漫角色_动漫角色13984.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13985/动漫角色_动漫角色13985.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13985/动漫角色_动漫角色13985.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13986/动漫角色_动漫角色13986.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13986/动漫角色_动漫角色13986.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      },
+      {
+        "errors": [],
+        "path": "/Users/mlty/Data/jiaguyi9/动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13987/动漫角色_动漫角色13987.glb",
+        "reject_reasons": [],
+        "relative_path": "动漫角色_不包含PBR和骨骼_写实风_2216/动漫角色_动漫角色/动漫角色_动漫角色13987/动漫角色_动漫角色13987.glb",
+        "review_reasons": [
+          "high_poly_model"
+        ]
+      }
+    ]
+  },
+  "expected_count": 13003,
+  "expected_count_ok": true,
+  "extension_counts": {
+    ".glb": 13003
+  },
+  "first_level_counts": {
+    "动漫角色_不包含PBR和骨骼_写实风_2216": {
+      "accepted": 2,
+      "rejected": 5,
+      "review": 2045
+    },
+    "动物_不包含PBR和骨骼_写实风_2114": {
+      "accepted": 42,
+      "rejected": 108,
+      "review": 1562
+    },
+    "手办_不包含PBR和骨骼_写实风_5405": {
+      "accepted": 21,
+      "rejected": 14,
+      "review": 4803
+    },
+    "游戏角色_不包含PBR和骨骼_写实风_5093": {
+      "accepted": 3,
+      "rejected": 14,
+      "review": 4384
+    }
+  },
+  "input_list": null,
+  "issue_counts": {
+    "reject:gore_keyword_suspect": 7,
+    "reject:invalid_gltf_references": 2,
+    "reject:too_many_faces": 130,
+    "reject:unreadable_images": 2,
+    "review:ai_asset_suspect": 38,
+    "review:high_poly_model": 12935,
+    "review:missing_normals": 12,
+    "review:no_pbr": 2,
+    "review:small_texture": 3,
+    "review:unused_images": 6,
+    "review:violence_keyword_suspect": 176
+  },
+  "llm_summary": {},
+  "lod_counts": {
+    "high": 12935,
+    "low": 22,
+    "mid": 46
+  },
+  "missing_input_count": 0,
+  "openable_count": 13003,
+  "out_dir": "jiaguyi_eval/glb_quality_report_jiaguyi9_images",
+  "parse_failed_count": 0,
+  "record_count": 13003,
+  "render_summary": {},
+  "root": "/Users/mlty/Data/jiaguyi9",
+  "rules": {
+    "extract_textures": true,
+    "ghc_api_model": "gpt-4o",
+    "high_faces": 150000,
+    "inspect_images": true,
+    "llm_review": false,
+    "llm_sample_rate": 0.1,
+    "llm_sample_seed": 20260603,
+    "llm_workers": 4,
+    "low_faces": 50000,
+    "max_faces": 2000000,
+    "max_file_mb": 512.0,
+    "min_faces": 12,
+    "pil_available": true,
+    "reject_ai": false,
+    "reject_violence_keywords": false,
+    "render_engine": "BLENDER_EEVEE",
+    "render_six_views": false,
+    "render_size": 768,
+    "require_pbr": false,
+    "require_textures": false,
+    "texture_dir_name": "images",
+    "texture_overwrite": false
+  },
+  "started_at": "2026-06-05 18:01:43",
+  "status_counts": {
+    "accepted": 68,
+    "rejected": 141,
+    "review": 12794
+  },
+  "texture_extract_summary": {
+    "enabled": true,
+    "extracted_texture_count": 142322,
+    "status_counts": {
+      "ok": 13003
+    }
+  }
+}

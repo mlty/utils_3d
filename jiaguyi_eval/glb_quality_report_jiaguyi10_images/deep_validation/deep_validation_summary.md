@@ -1,0 +1,233 @@
+# Deep Validation Summary
+
+- assets: 24105
+- actual extracted image files: 314106
+- reported extracted texture count: 279214
+- output count mismatches: 4556
+- unreadable extracted images: 0
+- no-image assets: 2
+- AI candidates: 42
+- AI risk counts: {'no_evidence': 24063, 'high': 41, 'low': 1}
+- audit status counts: {'review': 24017, 'rejected': 77, 'accepted': 11}
+- validation issue counts: {'audit_review_asset': 24094, 'extracted_texture_count_mismatch': 4556, 'audit_rejected_asset': 77, 'ai_candidate': 42, 'small_extracted_textures': 13, 'asset_has_no_gltf_images': 2, 'fewer_extracted_than_gltf_images': 1}
+- elapsed_sec: 229.046
+- PIL available: True
+
+## Folder Summary
+
+| folder | assets | images | unreadable | mismatches | AI candidates | rejected | review |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 动物_不包含PBR和骨骼_写实风_1730(1)(1) | 1530 | 4058 | 0 | 0 | 11 (0.72%) | 11 | 1516 |
+| 动物_包含PBR和骨骼_写实风_1454(1) | 1218 | 3185 | 0 | 0 | 7 (0.57%) | 34 | 1177 |
+| 手办_不包含PBR和骨骼_写实风_2997(1) | 2449 | 30463 | 0 | 48 | 15 (0.61%) | 2 | 2447 |
+| 手办_不包含PBR和骨骼_写实风_4009(1)(1) | 3619 | 53922 | 0 | 0 | 4 (0.11%) | 1 | 3618 |
+| 手办_包含PBR和骨骼_写实风_504(1)(1) | 416 | 5675 | 0 | 0 | 0 (0.00%) | 0 | 416 |
+| 文字图像_不包含PBR和骨骼_写实风_1359(1)(1) | 2710 | 13426 | 0 | 2710 | 0 (0.00%) | 0 | 2710 |
+| 机甲_不包含PBR和骨骼_写实风_536(1) | 475 | 3589 | 0 | 0 | 3 (0.63%) | 12 | 463 |
+| 游戏角色_不包含PBR和骨骼_写实风_4084(2)(1) | 3448 | 50612 | 0 | 0 | 1 (0.03%) | 2 | 3446 |
+| 游戏角色_不包含PBR和骨骼_写实风_6988(1) | 5894 | 89434 | 0 | 0 | 0 (0.00%) | 1 | 5893 |
+| 游戏角色_包含PBR和骨骼_写实风_1100(1)(1) | 1803 | 55276 | 0 | 1798 | 0 (0.00%) | 2 | 1801 |
+| 真人_不包含PBR和骨骼_写实风_715(1) | 543 | 4466 | 0 | 0 | 1 (0.18%) | 12 | 530 |
+
+## Top Issues
+
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_农场动物/动物_农场动物677/动物_农场动物677.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17737/动物_野生动物17737.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17742/动物_野生动物17742.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17888/动物_野生动物17888.glb` - unreadable_images
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17936/动物_野生动物17936.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物17996/动物_野生动物17996.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18160/动物_野生动物18160.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18337/动物_野生动物18337.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18396/动物_野生动物18396.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18464/动物_野生动物18464.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_不包含PBR和骨骼_写实风_1730(1)(1)/动物_野生动物/动物_野生动物18543/动物_野生动物18543.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3257/动物_野生动物3257.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3273/动物_野生动物3273.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3303/动物_野生动物3303.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3350/动物_野生动物3350.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3351/动物_野生动物3351.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3435/动物_野生动物3435.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3472/动物_野生动物3472.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3537/动物_野生动物3537.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3539/动物_野生动物3539.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3560/动物_野生动物3560.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3658/动物_野生动物3658.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3662/动物_野生动物3662.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3674/动物_野生动物3674.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3724/动物_野生动物3724.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3732/动物_野生动物3732.glb` - textures_without_uv
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3881/动物_野生动物3881.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3911/动物_野生动物3911.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3913/动物_野生动物3913.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3916/动物_野生动物3916.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物3956/动物_野生动物3956.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4039/动物_野生动物4039.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4098/动物_野生动物4098.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4105/动物_野生动物4105.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4109/动物_野生动物4109.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4124/动物_野生动物4124.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4126/动物_野生动物4126.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4146/动物_野生动物4146.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4176/动物_野生动物4176.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4236/动物_野生动物4236.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4238/动物_野生动物4238.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4244/动物_野生动物4244.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4313/动物_野生动物4313.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4388/动物_野生动物4388.glb` - too_many_faces
+- [error] audit_rejected_asset: `动物_包含PBR和骨骼_写实风_1454(1)/动物_野生动物/动物_野生动物4397/动物_野生动物4397.glb` - too_many_faces
+- [error] audit_rejected_asset: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19228/手办_Q版形象19228.glb` - too_many_faces
+- [error] audit_rejected_asset: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象19858/手办_Q版形象19858.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `手办_不包含PBR和骨骼_写实风_4009(1)(1)/手办_Q版形象/手办_Q版形象16330/手办_Q版形象16330.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_战舰/机甲_战舰3346/机甲_战舰3346.glb` - textures_without_uv
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_战舰/机甲_战舰3347/机甲_战舰3347.glb` - textures_without_uv
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_战舰/机甲_战舰3360/机甲_战舰3360.glb` - too_many_faces
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_战舰/机甲_战舰3372/机甲_战舰3372.glb` - too_many_faces
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_战舰/机甲_战舰3447/机甲_战舰3447.glb` - textures_without_uv
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11643/机甲_机器人11643.glb` - textures_without_uv
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11652/机甲_机器人11652.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11703/机甲_机器人11703.glb` - textures_without_uv
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11721/机甲_机器人11721.glb` - textures_without_uv
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11731/机甲_机器人11731.glb` - too_many_faces
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11907/机甲_机器人11907.glb` - too_many_faces
+- [error] audit_rejected_asset: `机甲_不包含PBR和骨骼_写实风_536(1)/机甲_机器人/机甲_机器人11993/机甲_机器人11993.glb` - textures_without_uv
+- [error] audit_rejected_asset: `游戏角色_不包含PBR和骨骼_写实风_4084(2)(1)/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色20392/游戏角色_奇幻类人角色20392.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `游戏角色_不包含PBR和骨骼_写实风_4084(2)(1)/游戏角色_风格化类人角色/游戏角色_风格化类人角色20743/游戏角色_风格化类人角色20743.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `游戏角色_不包含PBR和骨骼_写实风_6988(1)/游戏角色_不包含PBR和骨骼_写实风_6988/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色14157/游戏角色_奇幻类人角色14157.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `游戏角色_包含PBR和骨骼_写实风_1100(1)(1)/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色4265/游戏角色_奇幻类人角色4265(1).glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `游戏角色_包含PBR和骨骼_写实风_1100(1)(1)/游戏角色_奇幻类人角色/游戏角色_奇幻类人角色4265/游戏角色_奇幻类人角色4265.glb` - gore_keyword_suspect
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12111/真人_成人12111.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12135/真人_成人12135.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12664/真人_成人12664.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12698/真人_成人12698.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12699/真人_成人12699.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12740/真人_成人12740.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12741/真人_成人12741.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12752/真人_成人12752.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12782/真人_成人12782.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12783/真人_成人12783.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12784/真人_成人12784.glb` - too_many_faces
+- [error] audit_rejected_asset: `真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12786/真人_成人12786.glb` - too_many_faces
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17661/手办_Q版形象17661(1).glb` - reported=24, actual=48, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17661/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17661/手办_Q版形象17661.glb` - reported=24, actual=48, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17661/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17663/手办_Q版形象17663(1).glb` - reported=16, actual=32, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17663/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17663/手办_Q版形象17663.glb` - reported=16, actual=32, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17663/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17667/手办_Q版形象17667(1).glb` - reported=14, actual=28, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17667/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17667/手办_Q版形象17667.glb` - reported=14, actual=28, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17667/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17669/手办_Q版形象17669(1).glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17669/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17669/手办_Q版形象17669.glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17669/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17672/手办_Q版形象17672(1).glb` - reported=18, actual=36, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17672/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17672/手办_Q版形象17672.glb` - reported=18, actual=36, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17672/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17674/手办_Q版形象17674(1).glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17674/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17674/手办_Q版形象17674.glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17674/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17676/手办_Q版形象17676(1).glb` - reported=16, actual=32, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17676/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17676/手办_Q版形象17676.glb` - reported=16, actual=32, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17676/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17677/手办_Q版形象17677(1).glb` - reported=15, actual=30, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17677/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17677/手办_Q版形象17677.glb` - reported=15, actual=30, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17677/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17678/手办_Q版形象17678(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17678/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17678/手办_Q版形象17678.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17678/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17679/手办_Q版形象17679(1).glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17679/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17679/手办_Q版形象17679.glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17679/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17682/手办_Q版形象17682(1).glb` - reported=21, actual=42, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17682/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17682/手办_Q版形象17682.glb` - reported=21, actual=42, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17682/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17687/手办_Q版形象17687(1).glb` - reported=17, actual=34, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17687/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17687/手办_Q版形象17687.glb` - reported=17, actual=34, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17687/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17690/手办_Q版形象17690(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17690/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17690/手办_Q版形象17690.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17690/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17691/手办_Q版形象17691(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17691/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17691/手办_Q版形象17691.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17691/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17692/手办_Q版形象17692(1).glb` - reported=20, actual=40, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17692/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17692/手办_Q版形象17692.glb` - reported=20, actual=40, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17692/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17694/手办_Q版形象17694(1).glb` - reported=16, actual=32, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17694/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17694/手办_Q版形象17694.glb` - reported=16, actual=32, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17694/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17696/手办_Q版形象17696(1).glb` - reported=5, actual=10, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17696/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17696/手办_Q版形象17696.glb` - reported=5, actual=10, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17696/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17697/手办_Q版形象17697(1).glb` - reported=2, actual=4, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17697/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17697/手办_Q版形象17697.glb` - reported=2, actual=4, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17697/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17700/手办_Q版形象17700(1).glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17700/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17700/手办_Q版形象17700.glb` - reported=13, actual=26, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17700/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17704/手办_Q版形象17704(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17704/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17704/手办_Q版形象17704.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17704/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17707/手办_Q版形象17707(1).glb` - reported=2, actual=4, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17707/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17707/手办_Q版形象17707.glb` - reported=2, actual=4, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象17707/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18691/手办_Q版形象18691-b7c0b2ef4a2f.glb` - reported=15, actual=30, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18691/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18691/手办_Q版形象18691.glb` - reported=15, actual=30, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18691/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18708/手办_Q版形象18708(1).glb` - reported=12, actual=24, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18708/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18708/手办_Q版形象18708.glb` - reported=12, actual=24, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18708/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18743/手办_Q版形象18743(1).glb` - reported=7, actual=14, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18743/images
+- [error] extracted_texture_count_mismatch: `手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18743/手办_Q版形象18743.glb` - reported=7, actual=14, dir=/Users/mlty/Data/jiaguyi10/手办_不包含PBR和骨骼_写实风_2997(1)/手办_Q版形象/手办_Q版形象18743/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字3D类模型15708/文字图像_文字3D类模型15708(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字3D类模型15708/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字3D类模型15708/文字图像_文字3D类模型15708.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字3D类模型15708/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15709/文字图像_文字类3D模型15709(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15709/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15709/文字图像_文字类3D模型15709.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15709/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15710/文字图像_文字类3D模型15710(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15710/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15710/文字图像_文字类3D模型15710.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15710/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15711/文字图像_文字类3D模型15711(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15711/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15711/文字图像_文字类3D模型15711.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15711/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15712/文字图像_文字类3D模型15712(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15712/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15712/文字图像_文字类3D模型15712.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15712/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15713/文字图像_文字类3D模型15713(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15713/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15713/文字图像_文字类3D模型15713.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15713/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15714/文字图像_文字类3D模型15714(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15714/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15714/文字图像_文字类3D模型15714.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15714/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15715/文字图像_文字类3D模型15715(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15715/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15715/文字图像_文字类3D模型15715.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15715/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15716/文字图像_文字类3D模型15716(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15716/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15716/文字图像_文字类3D模型15716.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15716/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15717/文字图像_文字类3D模型15717(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15717/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15717/文字图像_文字类3D模型15717.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15717/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15718/文字图像_文字类3D模型15718(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15718/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15718/文字图像_文字类3D模型15718.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15718/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15719/文字图像_文字类3D模型15719(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15719/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15719/文字图像_文字类3D模型15719.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15719/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15720/文字图像_文字类3D模型15720(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15720/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15720/文字图像_文字类3D模型15720.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15720/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15721/文字图像_文字类3D模型15721(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15721/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15721/文字图像_文字类3D模型15721.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15721/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15722/文字图像_文字类3D模型15722(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15722/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15722/文字图像_文字类3D模型15722.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15722/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15724/文字图像_文字类3D模型15724(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15724/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15724/文字图像_文字类3D模型15724.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15724/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15725/文字图像_文字类3D模型15725(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15725/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15725/文字图像_文字类3D模型15725.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15725/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15726/文字图像_文字类3D模型15726(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15726/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15726/文字图像_文字类3D模型15726.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15726/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15727/文字图像_文字类3D模型15727(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15727/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15727/文字图像_文字类3D模型15727.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15727/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15728/文字图像_文字类3D模型15728(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15728/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15728/文字图像_文字类3D模型15728.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15728/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15729/文字图像_文字类3D模型15729(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15729/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15729/文字图像_文字类3D模型15729.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15729/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15730/文字图像_文字类3D模型15730(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15730/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15730/文字图像_文字类3D模型15730.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15730/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15731/文字图像_文字类3D模型15731(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15731/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15731/文字图像_文字类3D模型15731.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15731/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15732/文字图像_文字类3D模型15732(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15732/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15732/文字图像_文字类3D模型15732.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15732/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15733/文字图像_文字类3D模型15733(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15733/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15733/文字图像_文字类3D模型15733.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15733/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15734/文字图像_文字类3D模型15734(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15734/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15734/文字图像_文字类3D模型15734.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15734/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15735/文字图像_文字类3D模型15735(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15735/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15735/文字图像_文字类3D模型15735.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15735/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15736/文字图像_文字类3D模型15736(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15736/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15736/文字图像_文字类3D模型15736.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15736/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15737/文字图像_文字类3D模型15737(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15737/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15737/文字图像_文字类3D模型15737.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15737/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15738/文字图像_文字类3D模型15738(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15738/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15738/文字图像_文字类3D模型15738.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15738/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15739/文字图像_文字类3D模型15739(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15739/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15739/文字图像_文字类3D模型15739.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15739/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15740/文字图像_文字类3D模型15740(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15740/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15740/文字图像_文字类3D模型15740.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15740/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15741/文字图像_文字类3D模型15741(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15741/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15741/文字图像_文字类3D模型15741.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15741/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15742/文字图像_文字类3D模型15742(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15742/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15742/文字图像_文字类3D模型15742.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15742/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15743/文字图像_文字类3D模型15743(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15743/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15743/文字图像_文字类3D模型15743.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15743/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15744/文字图像_文字类3D模型15744(1).glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15744/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15744/文字图像_文字类3D模型15744.glb` - reported=3, actual=6, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15744/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15745/文字图像_文字类3D模型15745(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15745/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15745/文字图像_文字类3D模型15745.glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15745/images
+- [error] extracted_texture_count_mismatch: `文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15746/文字图像_文字类3D模型15746(1).glb` - reported=1, actual=2, dir=/Users/mlty/Data/jiaguyi10/文字图像_不包含PBR和骨骼_写实风_1359(1)(1)/文字图像_文字类3D模型/文字图像_文字类3D模型15746/images

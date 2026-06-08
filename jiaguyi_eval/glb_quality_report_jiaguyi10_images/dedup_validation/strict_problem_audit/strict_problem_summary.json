@@ -1,0 +1,95 @@
+{
+  "criteria": {
+    "excluded_as_not_strict": [
+      "audit_review_asset",
+      "extracted_texture_count_mismatch after duplicate/shared images directory analysis",
+      "generic review such as high_poly_model/no_pbr/no_texture unless paired with hard issue"
+    ],
+    "problem": [
+      "status=rejected or non-empty reject_reasons",
+      "parse/open failure, invalid glTF references, missing/unreadable source images",
+      "texture_extract_status failed/partial",
+      "deep validation hard errors except known duplicate-directory count mismatch",
+      "fewer_extracted_than_gltf_images",
+      "normal render hard failure when available"
+    ],
+    "strict_review": [
+      "strong/static AI evidence",
+      "small extracted textures",
+      "asset_has_no_gltf_images",
+      "normal weak geometry signal when available"
+    ]
+  },
+  "dedup_asset_count": 21827,
+  "folder_counts": [
+    {
+      "folder": "动物_不包含PBR和骨骼_写实风_1730(1)(1)",
+      "problem": 11,
+      "strict_review": 11,
+      "total": 22
+    },
+    {
+      "folder": "动物_包含PBR和骨骼_写实风_1454(1)",
+      "problem": 34,
+      "strict_review": 7,
+      "total": 41
+    },
+    {
+      "folder": "手办_不包含PBR和骨骼_写实风_2997(1)",
+      "problem": 2,
+      "strict_review": 18,
+      "total": 20
+    },
+    {
+      "folder": "手办_不包含PBR和骨骼_写实风_4009(1)(1)",
+      "problem": 1,
+      "strict_review": 10,
+      "total": 11
+    },
+    {
+      "folder": "机甲_不包含PBR和骨骼_写实风_536(1)",
+      "problem": 12,
+      "strict_review": 4,
+      "total": 16
+    },
+    {
+      "folder": "游戏角色_不包含PBR和骨骼_写实风_4084(2)(1)",
+      "problem": 2,
+      "strict_review": 2,
+      "total": 4
+    },
+    {
+      "folder": "游戏角色_不包含PBR和骨骼_写实风_6988(1)",
+      "problem": 1,
+      "strict_review": 2,
+      "total": 3
+    },
+    {
+      "folder": "游戏角色_包含PBR和骨骼_写实风_1100(1)(1)",
+      "problem": 1,
+      "strict_review": 1,
+      "total": 2
+    },
+    {
+      "folder": "真人_不包含PBR和骨骼_写实风_715(1)",
+      "problem": 12,
+      "strict_review": 1,
+      "total": 13
+    }
+  ],
+  "issue_counts": {
+    "audit_errors": 21,
+    "audit_rejected": 76,
+    "static_ai_evidence": 1,
+    "strong_static_ai_evidence": 41,
+    "unreadable_source_images": 1,
+    "validation_ai_candidate": 42,
+    "validation_asset_has_no_gltf_images": 2,
+    "validation_audit_rejected_asset": 76,
+    "validation_fewer_extracted_than_gltf_images": 1,
+    "validation_small_extracted_textures": 12
+  },
+  "strict_problem_asset_count": 76,
+  "strict_review_asset_count": 56,
+  "strict_total_flagged_asset_count": 132
+}

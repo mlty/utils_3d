@@ -1,0 +1,8 @@
+{
+  "dataset_dir": "/Users/mlty/Data/jiaguyi10",
+  "original_model_file_count": 3766,
+  "dedup_model_file_count": 3766,
+  "removed_duplicate_count": 0,
+  "duplicate_group_count": 0,
+  "top_folder_count": 4
+}

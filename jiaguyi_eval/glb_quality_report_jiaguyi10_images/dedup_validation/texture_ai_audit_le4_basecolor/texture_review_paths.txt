@@ -1,0 +1,4 @@
+/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_儿童/真人_儿童745/真人_儿童745.glb
+/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12630/真人_成人12630.glb
+/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12634/真人_成人12634.glb
+/Users/mlty/Data/jiaguyi10/真人_不包含PBR和骨骼_写实风_715(1)/真人_成人/真人_成人12735/真人_成人12735.glb

@@ -1,0 +1,35 @@
+{
+  "asset_count": 3,
+  "elapsed_sec": 0.809,
+  "flagged_asset_count": 1,
+  "flagged_texture_count": 1,
+  "folder_counts": [
+    {
+      "folder": "机甲_不包含PBR和骨骼_写实风_536(1)",
+      "texture_ai_suspect": 1,
+      "total": 1
+    }
+  ],
+  "issue_counts": {
+    "fragmented_uv_high_edges": 1
+  },
+  "kept_paths": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/dedup_validation/kept_dedup_paths.txt",
+  "pil_available": true,
+  "severity_counts": {
+    "texture_ai_suspect": 1
+  },
+  "skipped_non_color_texture_count": 2,
+  "source_assets_csv": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/assets.csv",
+  "texture_count_available": 7,
+  "texture_count_checked": 5,
+  "texture_map_scope": "base-color",
+  "thresholds": {
+    "fragment_dark_ratio": 0.25,
+    "fragment_edge_density": 0.12,
+    "fragment_generic_edge_density": 0.12,
+    "fragment_high_edge_density": 0.3,
+    "fragment_high_entropy": 6.6,
+    "palette_bright_ratio": 0.25,
+    "palette_top_color_ratio": 0.1
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "dataset_dir": "/Users/mlty/Data/jiaguyi9",
+  "dedup_asset_count": 13003,
+  "full_basecolor_assets_checked": 13003,
+  "full_basecolor_textures_checked": 139397,
+  "texture_flagged_asset_count": 4317,
+  "texture_ai_suspect_count": 4315,
+  "texture_review_count": 2,
+  "texture_problem_count": 0,
+  "static_ai_suspect_count": 38,
+  "strict_ai_suspect_union_count": 4330,
+  "broad_ai_review_union_count": 4330,
+  "strict_ai_suspect_ratio": 0.333,
+  "texture_severity_counts": {
+    "texture_ai_suspect": 4315,
+    "texture_review": 2
+  },
+  "texture_issue_counts": {
+    "fragmented_uv_dark_seams": 3402,
+    "fragmented_uv_transparent_gaps": 1854,
+    "filename_generic_image_0": 1024,
+    "fragmented_generic_uv_atlas": 718,
+    "fragmented_uv_high_edges": 391,
+    "visual_palette_or_chart_texture": 189,
+    "filename_temp_or_ai_marker": 7,
+    "temp_named_fragmented_texture": 3
+  },
+  "overlap_texture_ai_and_static_ai": 23,
+  "folder_summary": [
+    {
+      "folder": "动漫角色_不包含PBR和骨骼_写实风_2216",
+      "asset_count": 2052,
+      "strict_ai_suspect": 1006,
+      "strict_ai_ratio": 0.490253,
+      "broad_review": 1006,
+      "texture_ai_suspect": 1003,
+      "texture_review": 2,
+      "static_ai_suspect": 8
+    },
+    {
+      "folder": "动物_不包含PBR和骨骼_写实风_2114",
+      "asset_count": 1712,
+      "strict_ai_suspect": 526,
+      "strict_ai_ratio": 0.307243,
+      "broad_review": 526,
+      "texture_ai_suspect": 519,
+      "texture_review": 0,
+      "static_ai_suspect": 18
+    },
+    {
+      "folder": "手办_不包含PBR和骨骼_写实风_5405",
+      "asset_count": 4838,
+      "strict_ai_suspect": 1671,
+      "strict_ai_ratio": 0.345391,
+      "broad_review": 1671,
+      "texture_ai_suspect": 1668,
+      "texture_review": 0,
+      "static_ai_suspect": 4
+    },
+    {
+      "folder": "游戏角色_不包含PBR和骨骼_写实风_5093",
+      "asset_count": 4401,
+      "strict_ai_suspect": 1127,
+      "strict_ai_ratio": 0.256078,
+      "broad_review": 1127,
+      "texture_ai_suspect": 1125,
+      "texture_review": 0,
+      "static_ai_suspect": 8
+    }
+  ]
+}

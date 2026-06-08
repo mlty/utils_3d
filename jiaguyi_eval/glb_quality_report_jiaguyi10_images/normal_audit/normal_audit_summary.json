@@ -1,0 +1,72 @@
+{
+  "candidate_count": 7989,
+  "candidate_reason_counts": {
+    "ai_candidate": 42,
+    "status_rejected": 77,
+    "texture_count_le_4": 7960,
+    "validation_ai_candidate": 42,
+    "validation_asset_has_no_gltf_images": 2,
+    "validation_audit_rejected_asset": 77,
+    "validation_fewer_extracted_than_gltf_images": 1,
+    "validation_small_extracted_textures": 13
+  },
+  "elapsed_sec": 1.312,
+  "folder_action_counts": {
+    "动物_不包含PBR和骨骼_写实风_1730(1)(1)": {
+      "asset_count": 6,
+      "normal_pass": 6
+    },
+    "动物_包含PBR和骨骼_写实风_1454(1)": {
+      "asset_count": 22,
+      "normal_pass": 22
+    },
+    "手办_不包含PBR和骨骼_写实风_2997(1)": {
+      "asset_count": 6,
+      "normal_pass": 6
+    },
+    "手办_不包含PBR和骨骼_写实风_4009(1)(1)": {
+      "asset_count": 8,
+      "normal_pass": 8
+    },
+    "游戏角色_不包含PBR和骨骼_写实风_4084(2)(1)": {
+      "asset_count": 1,
+      "normal_pass": 1
+    },
+    "游戏角色_不包含PBR和骨骼_写实风_6988(1)": {
+      "asset_count": 2,
+      "normal_pass": 2
+    },
+    "游戏角色_包含PBR和骨骼_写实风_1100(1)(1)": {
+      "asset_count": 2,
+      "normal_pass": 2
+    },
+    "真人_不包含PBR和骨骼_写实风_715(1)": {
+      "asset_count": 3,
+      "normal_pass": 3
+    }
+  },
+  "normal_quality_action_counts": {
+    "normal_pass": 50
+  },
+  "numpy_available": false,
+  "pil_available": true,
+  "render_selected_count": 50,
+  "render_status_counts": {
+    "existing": 50
+  },
+  "rendered_asset_count": 50,
+  "rendered_view_count": 300,
+  "source_assets_csv": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/assets.csv",
+  "source_issues_csv": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/deep_validation/deep_validation_issues.csv",
+  "thresholds": {
+    "max_texture_count": 4,
+    "min_color_range": 8.0,
+    "min_entropy": 1.5,
+    "min_gradient_mean": 1.0,
+    "min_laplacian_var": 4.0,
+    "min_object_pixels": 512,
+    "min_object_ratio": 0.005,
+    "min_unique_bins": 8.0,
+    "min_visible_views": 3
+  }
+}

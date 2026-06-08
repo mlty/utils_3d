@@ -1,0 +1,34 @@
+{
+  "actual_image_file_count": 314106,
+  "ai_candidate_count": 42,
+  "ai_risk_counts": {
+    "high": 41,
+    "low": 1,
+    "no_evidence": 24063
+  },
+  "asset_count": 24105,
+  "count_mismatch_assets": 4556,
+  "elapsed_sec": 229.046,
+  "issue_counts": {
+    "ai_candidate": 42,
+    "asset_has_no_gltf_images": 2,
+    "audit_rejected_asset": 77,
+    "audit_review_asset": 24094,
+    "extracted_texture_count_mismatch": 4556,
+    "fewer_extracted_than_gltf_images": 1,
+    "small_extracted_textures": 13
+  },
+  "max_texture_size": 8192,
+  "min_texture_size": 64,
+  "no_image_assets": 2,
+  "pil_available": true,
+  "reported_extracted_texture_count": 279214,
+  "source_assets_csv": "jiaguyi_eval/glb_quality_report_jiaguyi10_images/assets.csv",
+  "status_counts": {
+    "accepted": 11,
+    "rejected": 77,
+    "review": 24017
+  },
+  "unreadable_output_image_count": 0,
+  "verify_images": true
+}

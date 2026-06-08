@@ -1,0 +1,62 @@
+{
+  "left_name": "jiaguyi10",
+  "left_dir": "/Users/mlty/Data/jiaguyi10",
+  "right_name": "jiaguyi9",
+  "right_dir": "/Users/mlty/Data/jiaguyi9",
+  "extensions": [
+    ".glb",
+    ".gltf"
+  ],
+  "jiaguyi10_file_count": 3766,
+  "jiaguyi9_file_count": 13003,
+  "total_file_count": 16769,
+  "cross_size_candidate_file_count": 28,
+  "cross_quick_hash_candidate_file_count": 12,
+  "error_count": 0,
+  "extension_counts": {
+    ".glb": 16769
+  },
+  "duplicate_group_count": 6,
+  "duplicate_pair_count": 6,
+  "duplicate_jiaguyi10_file_count": 6,
+  "duplicate_jiaguyi9_file_count": 6,
+  "elapsed_sec": 7.629,
+  "largest_duplicate_groups": [
+    {
+      "sha256": "ee4883ccfa5b7cf7168a68e5948d4fe38fe269768db0d055ed3dd270476c2fcc",
+      "size_bytes": 5784776,
+      "jiaguyi10_count": 1,
+      "jiaguyi9_count": 1
+    },
+    {
+      "sha256": "2a25554d3c06fc497745c64ad857debd49ec3fe9e521480ed8468b8efdc905a0",
+      "size_bytes": 5709584,
+      "jiaguyi10_count": 1,
+      "jiaguyi9_count": 1
+    },
+    {
+      "sha256": "9b6368f49f3c1aa15d9336d735b52d61c536dc458059057aed1b4c65a6b34f6a",
+      "size_bytes": 4563608,
+      "jiaguyi10_count": 1,
+      "jiaguyi9_count": 1
+    },
+    {
+      "sha256": "279c9a6e259ddcc90d3f399061f01a7841eb06f14e23d7154323a4e60ecfa773",
+      "size_bytes": 3598588,
+      "jiaguyi10_count": 1,
+      "jiaguyi9_count": 1
+    },
+    {
+      "sha256": "f065eed8785268be2db9b0f6b20a3ad34034d7099994c47ac3a4d4372818a9f1",
+      "size_bytes": 3596784,
+      "jiaguyi10_count": 1,
+      "jiaguyi9_count": 1
+    },
+    {
+      "sha256": "8ab5b7e177884702796cebf52f50034e248bce7ced56c37b673ba6bf1b38bd80",
+      "size_bytes": 1855204,
+      "jiaguyi10_count": 1,
+      "jiaguyi9_count": 1
+    }
+  ]
+}
