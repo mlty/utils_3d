@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Generated audit/report outputs
+jiaguyi_eval/glb_quality_report*/
+jiaguyi_eval/cross_dataset_*report*/
+jiaguyi_eval/current_dedup_report_*/
