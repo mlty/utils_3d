@@ -158,11 +158,22 @@ def image_files(directory: str) -> List[str]:
     return sorted(str(path) for path in root.iterdir() if path.is_file() and path.suffix.lower() in IMAGE_EXTS)
 
 
-def row_texture_paths(row: Dict[str, str], fallback_to_dir: bool) -> List[str]:
+def row_texture_dir(row: Dict[str, str], args: argparse.Namespace) -> str:
+    texture_dir = row.get("texture_extract_dir", "")
+    if texture_dir:
+        return texture_dir
+    texture_dir_name = getattr(args, "texture_dir_name", "")
+    model_path = row.get("path", "")
+    if texture_dir_name and model_path:
+        return str(Path(model_path).parent / texture_dir_name)
+    return ""
+
+
+def row_texture_paths(row: Dict[str, str], args: argparse.Namespace) -> List[str]:
     extracted = parse_jsonish(row.get("extracted_textures", ""), [])
     paths = [str(path) for path in extracted if isinstance(path, str) and path]
-    if not paths and fallback_to_dir:
-        paths = image_files(row.get("texture_extract_dir", ""))
+    if not paths and (args.fallback_to_texture_dir or args.texture_dir_name):
+        paths = image_files(row_texture_dir(row, args))
     return sorted(dict.fromkeys(paths))
 
 
@@ -320,7 +331,7 @@ def audit_asset(args_tuple: Tuple[Dict[str, str], argparse.Namespace]) -> Tuple[
     path = row.get("path", "")
     relative_path = row.get("relative_path", path)
     folder = relative_path.split("/")[0] if relative_path else "root"
-    all_texture_paths = row_texture_paths(row, args.fallback_to_texture_dir)
+    all_texture_paths = row_texture_paths(row, args)
     texture_paths = filter_texture_paths(all_texture_paths, args)
     image_rows: List[Dict[str, Any]] = []
     finding_rows: List[Dict[str, Any]] = []
@@ -498,8 +509,8 @@ def run(args: argparse.Namespace) -> None:
     if args.max_assets is not None:
         rows = rows[: args.max_assets]
 
-    texture_count_available = sum(len(row_texture_paths(row, args.fallback_to_texture_dir)) for row in rows)
-    texture_count_checked = sum(len(filter_texture_paths(row_texture_paths(row, args.fallback_to_texture_dir), args)) for row in rows)
+    texture_count_available = sum(len(row_texture_paths(row, args)) for row in rows)
+    texture_count_checked = sum(len(filter_texture_paths(row_texture_paths(row, args), args)) for row in rows)
     worker_args = [(row, args) for row in rows]
     asset_rows: List[Dict[str, Any]] = []
     image_rows: List[Dict[str, Any]] = []
@@ -618,6 +629,7 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     parser.add_argument("--texture-map-scope", choices=["base-color", "all"], default="base-color", help="Analyze base color candidates only by default; use all to include metallic/roughness/normal channel maps")
     parser.add_argument("--progress-every", type=int, default=1000, help="Print progress every N completed assets; use 0 to disable")
     parser.add_argument("--fallback-to-texture-dir", action=argparse.BooleanOptionalAction, default=False, help="Use all images in texture_extract_dir when extracted_textures is empty")
+    parser.add_argument("--texture-dir-name", default="", help="When extracted_textures is empty, read images from this model-folder child directory, for example images")
     parser.add_argument("--thumb-size", type=int, default=512, help="Thumbnail size used for image metrics")
     parser.add_argument("--edge-threshold", type=int, default=28, help="FIND_EDGES threshold used for edge density")
     parser.add_argument("--fragment-dark-ratio", type=float, default=0.25, help="Dark seam ratio threshold for fragmented UV atlases")
@@ -646,6 +658,12 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         parser.error("--min-extracted-textures must be >= 0")
     if args.progress_every < 0:
         parser.error("--progress-every must be >= 0")
+    args.texture_dir_name = args.texture_dir_name.strip()
+    if args.texture_dir_name and (
+        Path(args.texture_dir_name).is_absolute()
+        or any(part in {"", ".", ".."} for part in Path(args.texture_dir_name).parts)
+    ):
+        parser.error("--texture-dir-name must be a relative directory name")
     return args
 
 

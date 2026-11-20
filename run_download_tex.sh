@@ -10,6 +10,6 @@
 #SBATCH --error=logs/download_%j.err
 
 echo "Running task $SLURM_ARRAY_TASK_ID"
-srun --cpu-bind=none python -u test.py \
+srun --cpu-bind=none python -u copy_tex_data.py \
      --world_size 6 \
      --rank $SLURM_ARRAY_TASK_ID

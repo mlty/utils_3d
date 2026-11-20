@@ -1,11 +1,31 @@
-.DS_Store
-__pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-.ipynb_checkpoints/
+# This checkout also holds private data and unrelated projects. Publish only
+# tool sources in the directories below; new directories are local by default.
+*
+!/.gitignore
+!/README.md
+!/cg_data/
+!/data_filter/
+!/data_filter/ObjaverseXL/
+!/data_filter/step1x/
+!/data_filter/texverse/
+!/eval_3d_data_from_blender/
+!/eval_3d_data_from_vllm/
+!/jiaguyi_eval/
+!/step1x/
+!/tex_data/
+!/家具数据分析/
+!/家具数据分析/tex_pbr_download/
+!*.py
+!*.sh
 
-# Generated audit/report outputs
-jiaguyi_eval/glb_quality_report*/
-jiaguyi_eval/cross_dataset_*report*/
-jiaguyi_eval/current_dedup_report_*/
+# Only named tools at the repository root.
+/*.py
+/*.sh
+!/copy_tex_data.py
+!/generate_model_0916_render_list.py
+!/resize_glb.py
+!/run_download_tex.sh
+!/upload_files.py
+
+# Local scratch notes, not the historical metadata-processing script.
+/step1x/test.py
